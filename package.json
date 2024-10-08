@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "@next/font": "^14.2.14",
+    "@radix-ui/react-label": "^2.1.0",
     "@radix-ui/react-slot": "^1.1.0",
+    "@radix-ui/react-switch": "^1.1.1",
     "@types/node": "^22.7.4",
     "@types/tailwindcss": "^3.0.11",
     "@visx/axis": "^3.10.1",
